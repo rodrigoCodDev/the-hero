@@ -1,0 +1,89 @@
+{
+    "heroes": [
+      {
+        "name": "Cond",
+        "attributes": {
+          "defense": 80,
+          "attack": 70,
+          "health": 100,
+          "speed": 50,
+          "response_time": 1.5,
+          "power_time": 3.0,
+          "experience": 1200
+        }
+      },
+      {
+        "name": "Warrior",
+        "attributes": {
+          "defense": 100,
+          "attack": 90,
+          "health": 150,
+          "speed": 40,
+          "response_time": 1.8,
+          "power_time": 2.8,
+          "experience": 1500
+        }
+      },
+      {
+        "name": "Guard",
+        "attributes": {
+          "defense": 120,
+          "attack": 60,
+          "health": 180,
+          "speed": 35,
+          "response_time": 2.0,
+          "power_time": 3.5,
+          "experience": 1300
+        }
+      },
+      {
+        "name": "Writer",
+        "attributes": {
+          "defense": 50,
+          "attack": 40,
+          "health": 80,
+          "speed": 70,
+          "response_time": 1.2,
+          "power_time": 2.5,
+          "experience": 900
+        }
+      },
+      {
+        "name": "Bowman",
+        "attributes": {
+          "defense": 60,
+          "attack": 85,
+          "health": 90,
+          "speed": 80,
+          "response_time": 1.0,
+          "power_time": 2.0,
+          "experience": 1100
+        }
+      },
+      {
+        "name": "Chemist",
+        "attributes": {
+          "defense": 70,
+          "attack": 50,
+          "health": 110,
+          "speed": 60,
+          "response_time": 1.4,
+          "power_time": 3.2,
+          "experience": 1250
+        }
+      },
+      {
+        "name": "Engineer",
+        "attributes": {
+          "defense": 75,
+          "attack": 65,
+          "health": 120,
+          "speed": 55,
+          "response_time": 1.6,
+          "power_time": 3.0,
+          "experience": 1400
+        }
+      }
+    ]
+  }
+  
